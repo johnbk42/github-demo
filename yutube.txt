@@ -1,3 +1,5 @@
 test yutube.cny
 
 hết thứ 2 rồi lại đến thứ 3
+
+mới add vào .gitignore
